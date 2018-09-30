@@ -19,5 +19,9 @@
       raise TypeError
     return a + b
     ```
-1. Implement unittest
+1. Implement superunittest
 1. Use Agile Development Process
+1. Use Agile Development Process
+1. Use Agile Development Process
+1. Use Agile Development Process
+1. Use Scrum
